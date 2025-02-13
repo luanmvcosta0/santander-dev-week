@@ -1,4 +1,4 @@
-package com.santander_dev_week.model;
+package com.santander_dev_week.domain.model;
 
 import java.util.List;
 
