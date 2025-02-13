@@ -1,4 +1,4 @@
-package com.santander_dev_week;
+package com.santander_dev_week.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;

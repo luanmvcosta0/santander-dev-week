@@ -1,4 +1,4 @@
-package com.santander_dev_week.dto;
+package com.santander_dev_week.controller.dto;
 
 import com.santander_dev_week.domain.model.Feature;
 
