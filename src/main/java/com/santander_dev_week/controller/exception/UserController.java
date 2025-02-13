@@ -1,5 +1,7 @@
-package com.santander_dev_week.controller;
+package com.santander_dev_week.controller.exception;
 
+import com.santander_dev_week.controller.dto.UserDto;
+import com.santander_dev_week.service.UserService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

@@ -1,7 +1,7 @@
 package com.santander_dev_week.controller.exception;
 
-import com.santander_dev_week.exception.BusinessException;
-import com.santander_dev_week.exception.NotFoundException;
+import com.santander_dev_week.service.exception.BusinessException;
+import com.santander_dev_week.service.exception.NotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

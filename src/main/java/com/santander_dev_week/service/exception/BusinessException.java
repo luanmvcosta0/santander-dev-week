@@ -1,4 +1,4 @@
-package com.santander_dev_week.exception;
+package com.santander_dev_week.service.exception;
 
 public class BusinessException extends RuntimeException {
 
