@@ -1,0 +1,1 @@
+web: java -jar santander-dev-week-0.0.1-SNAPSHOT.jar
